@@ -1,2 +1,2 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=felbus&theme=dark&background=000000)](https://git.io/streak-stats)
+![HawkFLow.ai](https://hawkflow.ai/static/images/emails/bars.png)
 
